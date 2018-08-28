@@ -1,6 +1,6 @@
-# E7.FE
-
 <img style="display:block;margin-bottom: 15px" width="200" src="https://github.com/ximolang/E7.FE/raw/master/images/logo.png"/>
+
+# E7.FE
 
 以简单的方式，记录前端之路。
 
