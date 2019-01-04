@@ -10,7 +10,10 @@
 
 ## 分类
 
-#### JavaScript
+### JavaScript
+
+#### 玩转 JavaScript 系列
+[1. 玩转 JavaScript 之数据类型](https://github.com/seymoe/E7.FE/issues/1)
 
 #### ES6
 
