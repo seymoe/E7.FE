@@ -11,6 +11,11 @@
 #### 玩转 JavaScript 系列
 [1. 玩转 JavaScript 之数据类型](https://github.com/seymoe/blog/issues/1)
 
+[2. 玩转 JavaScript 之不得不懂的原型](https://github.com/seymoe/blog/issues/2)
+
+[3. 玩转 JavaScript 之详解 this](https://github.com/seymoe/blog/issues/3)
+
+
 ### ES6
 
 ### React
